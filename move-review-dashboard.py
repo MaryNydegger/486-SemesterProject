@@ -55,4 +55,4 @@ st.write(f"Accuracy: {accuracy}")
 # # Summarize the findings or key takeaways from the analysis/modeling
 
 
-st.markdown("[Github Repository](https://github.com/MaryNydegger/486-Semester-Project)")
+st.markdown("[Github Repository](https://github.com/MaryNydegger/486-SemesterProject)")
