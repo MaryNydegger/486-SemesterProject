@@ -53,3 +53,6 @@ st.write(f"Accuracy: {accuracy}")
 # # Conclusion or final thoughts
 # st.header('Conclusion')
 # # Summarize the findings or key takeaways from the analysis/modeling
+
+
+st.markdown("[Github Repository](https://github.com/MaryNydegger/486-Semester-Project)")
